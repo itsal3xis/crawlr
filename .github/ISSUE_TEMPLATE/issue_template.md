@@ -1,5 +1,5 @@
 ---
-name: ISSUE_TEMPLATE
+name: bug_repport
 about: Create a report to help us improve
 title: "[BUG]"
 labels: ''
